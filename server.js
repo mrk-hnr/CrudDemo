@@ -8,6 +8,5 @@ app.listen(3000, function() {
 
 // GET
 app.get("/", (req, res) => {
-    res.send("Hello World!") 
+    res.sendFile(__dirname + "/index.html") //sends the specific directory plus the file inside the quotation mark
 })
-     // Prints on localhost)
