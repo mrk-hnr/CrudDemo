@@ -7,4 +7,4 @@ This is my first attempt at CRUD by following ![Zell Liew](https://github.com/ze
 
 
 ## Optimizations
-~~Update Layout~~
+~~Update Layout~~ - Completed
